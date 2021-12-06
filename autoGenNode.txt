@@ -1,0 +1,7 @@
+node0,1
+node1,1
+node2,0
+node3,0
+node4,0
+node5,0
+node6,0
